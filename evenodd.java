@@ -6,7 +6,7 @@ public class evenodd {
         System.out.println("enter the number");
         int p=in.nextInt();
        
-        if(p%3==0){
+        if(p%2==0){
         System.out.println("Even");
         }
         else{
