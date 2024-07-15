@@ -1,7 +1,7 @@
 public class swapping {
     public static void main(String[] args) {
-        int a=10;
-        int b=20;
+        int a=20;
+        int b=30;
          
         a=a*b;
         b=a/b;
